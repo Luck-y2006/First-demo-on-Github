@@ -1,4 +1,4 @@
 # First-demo-on-Github
-This is my first repository on practicing github\n 
-Project name: Healthstartup project/n
+This is my first repository on practicing github 
+Project name: Healthstartup project
 HOP: Lucky
