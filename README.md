@@ -5,3 +5,4 @@ HOP: Lucky
 i am learning Git and Github.
 i am enjoying these topics very much.
 i am mastering GIT and GITHUB
+I already sent my digital menu card proposal to client.
